@@ -1,5 +1,6 @@
 Welcome to the Connection-to-JDBC wiki!
 
+http://www.javaguides.net/p/jdbc-tutorial.html?m=1`
 
 `public class insertsql {
 	static String username="";
